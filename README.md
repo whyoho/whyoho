@@ -1,4 +1,4 @@
-print("Hi! Welcome to my page.")
+`print("Hi! Welcome to my page.")`
 
 <!--
 **whyoho/whyoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
