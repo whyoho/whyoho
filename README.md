@@ -38,6 +38,7 @@ I aspire to be a software engineer or security analyst, though I'm still explori
 ---
 
 **Projects:**
+
 <a href="https://linktr.ee/whyoho" target="_blank">Duckling Dashboard</a>
 <ol>
     <li>An innovative AI-powered dashboard designed to help organizations achieve their small business procurement goals</li>
