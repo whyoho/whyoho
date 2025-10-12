@@ -42,14 +42,21 @@ I aspire to be a software engineer or security analyst, though I'm still explori
 <a href="https://linktr.ee/whyoho" target="_blank">Duckling Dashboard</a>
 <ol>
     <li>An innovative AI-powered dashboard designed to help organizations achieve their small business procurement goals</li>
+    <li>Built during the CSU AI Camp (2025)</li>
     <li>Technologies: Python, Streamlit, Pandas, Numpy, Scikit-learn, Plotly; AWS Lambda, S3, DynamoDB, Bedrock (Claude Sonnet 3.5)</li>
 </ol>
 <a href="https://github.com/shreya-ln/HEALIUM" target="_blank">HEALIUM</a>
 <ol>
     <li>A health assistant and dashboard for both doctors and patients, empowering non-English speakers and tech-challenged patients</li>
+    <li>Built during Hacktech 2025</li>
     <li>Technologies: Python, React, Supabase, Flask, OpenAI</li>
 </ol>
-
+<a href="https://github.com/mmisaacs/pong-cyberattack" target="_blank">Pong SCADA Demo</a>
+<ol>
+    <li>A small-scale SCADA demo using Pong to explain cybersecurity concepts</li>
+    <li>Built for Cal Poly Pomona's Cyber Security Awareness Fair (2025)</li>
+    <li>Technologies: React, NodeJS</li>
+</ol>
 [![whyoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyoho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
