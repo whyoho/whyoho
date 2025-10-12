@@ -57,6 +57,7 @@ I aspire to be a software engineer or security analyst, though I'm still explori
     <li>Built for Cal Poly Pomona's Cyber Security Awareness Fair (2025)</li>
     <li>Technologies: React, NodeJS</li>
 </ol>
+
 [![whyoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyoho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
