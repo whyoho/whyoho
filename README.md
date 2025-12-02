@@ -6,6 +6,8 @@ In today’s digital world, computer science and cybersecurity are more vital th
 
 I aspire to be a software engineer or security analyst, though I'm still exploring my interests!
 
+<a href="https://www.linkedin.com/in/annabel-wen/" target="_blank">Contact me on Linkedin!</a>
+
 ---
 
 **Tech Stack:**
