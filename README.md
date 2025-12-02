@@ -58,7 +58,7 @@ I aspire to be a software engineer or security analyst, though I'm still explori
     <li>Technologies: React, NodeJS</li>
 </ol>
 
-[![whyoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyoho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![whyoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyoho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **whyoho/whyoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
