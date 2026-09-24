@@ -1,10 +1,10 @@
 `print("Hi! Welcome to my page.")`
 
-**I'm Annabel, a 2nd year undergraduate honors student studying Computer Science and Cybersecurity.**
+**I'm Annabel, a 3nd year undergraduate honors student studying Computer Science and Cybersecurity.**
 
 In today’s digital world, computer science and cybersecurity are more vital than ever. What draws me to both fields is their unique blend of creativity and logic—each challenge is a puzzle that demands not just technical skill, but imaginative problem-solving.
 
-I aspire to be a software engineer or security analyst, though I'm still exploring my interests!
+I aspire to be a security engineer in the near future!
 
 <a href="https://www.linkedin.com/in/annabel-wen/" target="_blank">Contact me on Linkedin!</a>
 
